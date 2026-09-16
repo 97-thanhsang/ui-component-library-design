@@ -1,0 +1,10 @@
+{
+  "description": "This comprehensive UI component library and interactive design system streamlines the development of enterprise applications, enhancing user experience with reusable components and structured design principles.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
