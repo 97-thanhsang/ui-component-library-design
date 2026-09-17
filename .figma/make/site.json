@@ -1,10 +1,11 @@
 {
-  "description": "This comprehensive UI component library and interactive design system streamlines the development of enterprise applications, enhancing user experience with reusable components and structured design principles.",
+  "language": "vi",
+  "description": "Danh mục hệ thống thiết kế và thư viện thành phần giao diện dành cho ứng dụng doanh nghiệp.",
   "robots": {
     "index": false
   },
   "accessibility": {
-    "addBypassLinks": false,
+    "addBypassLinks": true,
     "ignoreReducedMotion": false
   }
 }
